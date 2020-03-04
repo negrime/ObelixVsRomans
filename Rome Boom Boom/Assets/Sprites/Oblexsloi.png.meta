@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: cb473aa83c864774fbcb6a8c1faa7a71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8556494739706184444
+    second: Oblexsloi_0
+  - first:
+      213: 2020881122449263876
+    second: Oblexsloi_1
+  - first:
+      213: 1635773385905574539
+    second: Oblexsloi_2
+  - first:
+      213: 2224288579957057448
+    second: Oblexsloi_3
+  - first:
+      213: 4731559553549267018
+    second: Oblexsloi_4
+  - first:
+      213: -7888358287501747957
+    second: Oblexsloi_5
+  - first:
+      213: -7774810921493385139
+    second: Oblexsloi_6
+  - first:
+      213: -54452559138339842
+    second: Oblexsloi_7
+  - first:
+      213: 4123472195636874753
+    second: Oblexsloi_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oblexsloi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1431
+        width: 1195
+        height: 667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2167613f393045bd0fe2b809e2fc3
+      internalID: -8556494739706184444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_1
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1189
+        width: 903
+        height: 921
+      alignment: 9
+      pivot: {x: 0.37194663, y: 0.101376414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f606eb0eed6c2a43a0df6ef922fb5ef
+      internalID: 2020881122449263876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 704
+        width: 341
+        height: 360
+      alignment: 9
+      pivot: {x: 0.8899622, y: 0.9095313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2c1ae4e7417944b8262eccb1cb5854
+      internalID: 1635773385905574539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 707
+        width: 333
+        height: 426
+      alignment: 9
+      pivot: {x: 0.17011836, y: 0.8867984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a6716977eb421448b9e205b1b611a3
+      internalID: 2224288579957057448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_4
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 242
+        width: 949
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885f05d1028abb40a6f8f9de68f95f8
+      internalID: 4731559553549267018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 170
+        width: 363
+        height: 246
+      alignment: 9
+      pivot: {x: 0.061999034, y: 0.8290349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b649abfa490c3f84cbf828b0d3e81285
+      internalID: -7888358287501747957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 178
+        width: 352
+        height: 295
+      alignment: 9
+      pivot: {x: 0.91062635, y: 0.91157275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e68355196d2b4e91517f89942b2fb
+      internalID: -7774810921493385139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_7
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 32
+        width: 192
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5451724, y: 0.9101144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824c725832a7cd645942faa15c09bd7a
+      internalID: -54452559138339842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblexsloi_8
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 0
+        width: 193
+        height: 288
+      alignment: 9
+      pivot: {x: 0.51497984, y: 0.9316139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4bd4839927ff4ba194688234fd545
+      internalID: 4123472195636874753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

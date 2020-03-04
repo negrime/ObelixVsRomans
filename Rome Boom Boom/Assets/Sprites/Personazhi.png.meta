@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 95fa89def58915e49b7da3329bfaffa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7137370145769270181
+    second: Personazhi_0
+  - first:
+      213: 4857992388690629380
+    second: Personazhi_1
+  - first:
+      213: -3644308355657409739
+    second: Personazhi_2
+  - first:
+      213: 9033714240591976833
+    second: Personazhi_3
+  - first:
+      213: 6229852688851340976
+    second: Personazhi_4
+  - first:
+      213: 7644062130959806904
+    second: Personazhi_5
+  - first:
+      213: 4230255866620875778
+    second: Personazhi_6
+  - first:
+      213: 1243436699146257664
+    second: Personazhi_7
+  - first:
+      213: -7567295576472268945
+    second: Personazhi_8
+  - first:
+      213: 3975130011667883851
+    second: Personazhi_9
+  - first:
+      213: -5884131486872832883
+    second: Personazhi_10
+  - first:
+      213: -2155181542671452389
+    second: Personazhi_11
+  - first:
+      213: -7306919047599965975
+    second: Personazhi_12
+  - first:
+      213: 1070168111575624174
+    second: Personazhi_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personazhi_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3168
+        width: 1022
+        height: 1922
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023d98a209d3a7458192ec95ef8e728
+      internalID: 7137370145769270181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_1
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 4197
+        width: 358
+        height: 893
+      alignment: 9
+      pivot: {x: 0.54046255, y: 0.030563781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571025818b178b49b186ed88e80ba2f
+      internalID: 4857992388690629380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_2
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 4419
+        width: 721
+        height: 561
+      alignment: 9
+      pivot: {x: 0.52003545, y: 0.29399928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4365abf3a45f9f942848528d8502cd35
+      internalID: -3644308355657409739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_3
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 4322
+        width: 293
+        height: 686
+      alignment: 9
+      pivot: {x: 0.4198494, y: 0.0836815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d2bd92a3d37048b2ffce372a30866
+      internalID: 9033714240591976833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_4
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 3235
+        width: 1022
+        height: 1073
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04b29af8330f0a49b95b1d73b1aaf08
+      internalID: 6229852688851340976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_5
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2792
+        width: 389
+        height: 345
+      alignment: 9
+      pivot: {x: 0.1764302, y: 0.9403434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc29786346090848957b53d81bdc077
+      internalID: 7644062130959806904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_6
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2810
+        width: 345
+        height: 352
+      alignment: 9
+      pivot: {x: 0.24876797, y: 0.93091166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9a47fe4587b8049b45c573b966c502
+      internalID: 4230255866620875778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1013
+        width: 1655
+        height: 1781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b94e68a1da2c441914486e745771d5
+      internalID: 1243436699146257664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_8
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1664
+        width: 440
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485e4b4c4409b541a67d628c77cbeb7
+      internalID: -7567295576472268945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_9
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1299
+        width: 1652
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f7d1599551ab142b3d5efbb417c21f
+      internalID: 3975130011667883851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_10
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 956
+        width: 136
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ed46847a3e6c49b65d03fcd6dfb89
+      internalID: -5884131486872832883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_11
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 704
+        width: 435
+        height: 806
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29c6d76b24a6584f91dda7e8e9948f1
+      internalID: -2155181542671452389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_12
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 225
+        width: 255
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d78ab691c3ec041b393c95db936810
+      internalID: -7306919047599965975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personazhi_13
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 243
+        width: 239
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1349022561381a445b8ac718efc66a45
+      internalID: 1070168111575624174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
